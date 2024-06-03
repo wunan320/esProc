@@ -79,7 +79,7 @@ import com.scudata.ide.spl.resources.IdeSplMessage;
 import com.scudata.util.CellSetUtil;
 
 /**
- * 集算器IDE的主界面类
+ * 集算器IDE的主界面类1
  *
  */
 public class SPL extends AppFrame {
